@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <head>
-<title>Login</title>
+<title>Login Page</title>
 <body>
          <div class="box">
 			<div class="border-bot">
