@@ -1,7 +1,11 @@
 <?php	
 $Email=$_POST['Username'];
 $Password=$_POST['Password'];
+<<<<<<< HEAD
 #Whatup
+=======
+#Hi
+>>>>>>> 897b6917c3562e5200361648e51f01924e79cc0c
 	$con=mysql_connect("localhost", "amajidah", "amajidah");
        
 	// Check connection
